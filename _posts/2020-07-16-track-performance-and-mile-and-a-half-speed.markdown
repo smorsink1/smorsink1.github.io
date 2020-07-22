@@ -8,7 +8,7 @@ date:   2020-07-16 23:58:49 -0400
 
 (Thanks to https://www.racing-reference.info and https://www.nascar.com for the raw data)
 
-When evaluating a driver's strength at a racetrack, fans and analysts often look for wins. If a driver pulls off a win, it probably means that their team had a good setup and that they drive the track well. Both their affinity for track and that of their team will likely carry into the future, leading to more good finishes at the track.
+When evaluating a driver's strength at a racetrack, fans and analysts often look for wins. If a driver pulls off a win, it probably means that their team had a good setup and that they drive the track well. Both their affinity for the track, and that of their team, will likely carry into the future, leading to more good finishes at the track.
 
 Fans and analysts aren't far off. It's tough to win a NASCAR Cup Series race, and winners perform well at future races. And performing well on a track isn't a fluke: most drivers reliably over-perform at at least one track.*
 
