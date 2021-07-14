@@ -1,0 +1,12 @@
+|driver            | elo_overall| n_driver_races_overall|
+|:-----------------|-----------:|----------------------:|
+|Denny Hamlin      |    1895.902|                    483|
+|Kyle Busch        |    1863.588|                    476|
+|Kyle Larson       |    1855.162|                    243|
+|Joey Logano       |    1850.183|                    455|
+|Kevin Harvick     |    1845.411|                    488|
+|Jeff Gordon       |    1838.924|                    296|
+|Chase Elliott     |    1823.864|                    205|
+|Brad Keselowski   |    1803.872|                    433|
+|William Byron     |    1802.383|                    128|
+|Martin Truex, Jr. |    1792.115|                    488|
